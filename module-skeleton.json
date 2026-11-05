@@ -1,0 +1,15 @@
+{
+  "repository": "module-browser-game-crafting-vue-inertia",
+  "capabilityKey": "liberusoftware/module-browser-game-crafting",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-browser-game-crafting-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/browser-game/nextjs/crafting.md",
+  "presentationPlan": "projects/browser-game/vue/crafting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "browser-game"
+  ]
+}
